@@ -1,6 +1,6 @@
 # Welcome, my name is Eric
 
-[Portfolio](https://ericflores108.github.io/) <br>
+[Portfolio](https://ericfloresportfolio.com/) <br>
 [LinkedIn](https://www.linkedin.com/in/ericflores108) <br>
 
 In February 2019, I graduated from Fordham University with a Bachelor's degree in Applied Mathematics with a minor in Economics. I am interested in programming, data science, probability and statistics. My favorite programming languages are TypeScript, JavaScript, and Python. 
