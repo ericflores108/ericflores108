@@ -10,7 +10,7 @@ Software Developer with a background in Mathematics. Programming in Python, Angu
 * 🖥️  See my portfolio at [ericfloresportfolio.com](http://ericfloresportfolio.com)
 * ✉️  You can contact me at [eflorty108@gmail.com](mailto:eflorty108@gmail.com)
 * 🚀  I'm currently working on [runtoread.today](http://runtoread.today)
-* 🧠  I'm learning ML
+* 🧠  I'm learning Go
 * 🤝  I'm open to collaborating on Angular, Python, or Go projects
 * ⚡  Love to travel and read
 
