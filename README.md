@@ -19,9 +19,11 @@ Software Developer with a background in Mathematics. Programming in Go, Python, 
 ### Actively working on... 🧐
 
 <div width="100%" align="center">
-  <a href="https://github.com/ericflores108/one-env-cli" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ericflores108&repo=one-env-cli&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
-  
-  <a href="https://github.com/ericflores108/runtoread.today" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ericflores108&repo=runtoread.today&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+  <a href="https://github.com/ericflores108/one-env-cli"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ericflores108&repo=one-env-cli&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+</div>
+<div></div>
+<div width="100%" align="center">
+  <a href="https://github.com/ericflores108/runtoread.today" align="right"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ericflores108&repo=runtoread.today&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
 </div>
 
 
