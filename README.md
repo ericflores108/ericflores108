@@ -19,6 +19,10 @@ Software Developer with a background in Mathematics. Programming in Go, Python, 
 ### Actively working on... 🧐
 
 <div width="100%" align="center">
+  <a href="https://github.com/ericflores108/titled"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ericflores108&repo=titled&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+</div>
+<div></div>
+<div width="100%" align="center">
   <a href="https://github.com/ericflores108/one-env-cli"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ericflores108&repo=one-env-cli&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
 </div>
 <div></div>
