@@ -19,7 +19,7 @@ Software Developer with a background in Mathematics. Programming in Go, Python, 
 ### Actively working on... 🧐
 
 <div width="100%" align="center">
-  <a href="https://github.com/ericflores108/url-shortner"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ericflores108&repo=url-shortner&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+  <a href="https://github.com/ericflores108/the-green-papaya"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ericflores108&repo=the-green-papaya&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
 </div>
 <div></div>
 <div width="100%" align="center">
